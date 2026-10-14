@@ -1,1 +1,71 @@
+# Etapa 1 — Definición del Mod
 
+**Fecha: 12 al 16 de octubre de 2026**
+
+## 1. Idea principal
+
+Nuestro proyecto consiste en desarrollar un mod de Minecraft llamado **Bosque Encantado**, inspirado en el universo de Harry Potter.
+
+El objetivo es crear un bosque mágico con bloques personalizados, objetos especiales y nuevas funcionalidades que permitan al jugador explorar un ambiente de fantasía.
+
+La estética del mod se basa principalmente en colores violetas, turquesas y cian.
+
+## 2. Elementos del mod
+
+### Bloques
+
+- **Tierra encantada:** forma el suelo del bosque mágico.
+- **Madera encantada:** troncos violetas utilizados para los árboles.
+- **Hojas encantadas:** hojas turquesas y cian que forman las copas de los árboles.
+- **Mineral mágico:** bloque de piedra con cristales violetas que, al minarlo, permite obtener gemas mágicas.
+- **Farol encantado:** ilumina el bosque con una luz mágica.
+- **Cofre encantado:** almacena objetos y solamente puede abrirse utilizando la llave encantada.
+- **Puerta encantada:** permite crear entradas secretas que únicamente pueden abrirse con la llave encantada.
+
+### Objetos
+
+- **Gema mágica:** recurso violeta que se obtiene del mineral mágico y se utiliza para fabricar objetos.
+- **Varita mágica:** permite lanzar hechizos.
+- **Escoba mágica:** permite volar por el mundo.
+- **Llave encantada:** permite abrir cofres y puertas encantadas.
+- **Libro de hechizos:** permite consultar o seleccionar hechizos.
+
+## 3. Recetas de fabricación
+
+Se definieron las siguientes recetas personalizadas para los elementos del mod.
+
+| Elemento             | Materiales                                                                 |
+| -------------------- | -------------------------------------------------------------------------- |
+| Varita mágica        | Gemas mágicas, palos y madera encantada                                    |
+| Escoba mágica        | Madera encantada, gemas, palos y materiales de escoba                      |
+| Llave encantada      | 3 gemas mágicas, 4 lingotes de oro, 1 palo y 2 bloques de madera encantada |
+| Libro de hechizos    | Libros, gemas mágicas y madera encantada                                   |
+| Farol encantado      | Gemas mágicas, hierro, antorcha, vidrio y madera encantada                 |
+| Estantería encantada | Madera encantada, libros y gema mágica                                     |
+| Cofre encantado      | 6 bloques de madera encantada, 2 gemas mágicas y 1 cofre normal            |
+| Puerta encantada     | 6 bloques de madera encantada, 2 gemas mágicas y 1 palo                    |
+
+El mineral mágico aparecerá en el mundo y, al minarlo, permitirá obtener de 1 a 3 gemas mágicas.
+
+## 4. Funcionamiento de la llave, los cofres y las puertas
+
+La llave encantada tendrá una función especial dentro del mod.
+
+- **Cofre encantado:** el jugador deberá tener la llave encantada en la mano y hacer clic derecho para abrirlo. Sin la llave, permanecerá cerrado.
+- **Puerta encantada:** solamente se abrirá cuando el jugador utilice la llave encantada. De lo contrario, permanecerá cerrada.
+- **Llave encantada:** una misma llave permitirá abrir tanto las puertas como los cofres encantados.
+
+Estos elementos podrán utilizarse para crear construcciones mágicas y lugares secretos dentro del bosque.
+
+## 5. Diseño de texturas
+
+Las texturas mantienen una misma estética para que todos los elementos combinen dentro del bosque.
+
+- **Violeta y rosa:** gemas, minerales y elementos mágicos.
+- **Turquesa y cian:** hojas y vegetación.
+- **Violeta oscuro:** troncos de los árboles.
+- **Violeta con detalles luminosos:** cofres y puertas encantadas.
+- **Dorado y violeta:** llave encantada.
+- **Colores luminosos:** detalles especiales de los objetos mágicos.
+
+Todas las texturas tendrán un estilo pixelado, respetando la apariencia de Minecraft.
