@@ -30,16 +30,15 @@ La estética del mod se basa principalmente en colores violetas, turquesas y cia
 
 Se definieron las siguientes recetas personalizadas para los elementos del mod.
 
-| Elemento             | Materiales                                                                 |
-| -------------------- | -------------------------------------------------------------------------- |
-| Varita mágica        | Gemas mágicas, palos y madera encantada                                    |
-| Escoba mágica        | Madera encantada, gemas, palos y materiales de escoba                      |
-| Llave encantada      | 3 gemas mágicas, 4 lingotes de oro, 1 palo y 2 bloques de madera encantada |
-| Libro de hechizos    | Libros, gemas mágicas y madera encantada                                   |
-| Farol encantado      | Gemas mágicas, hierro, antorcha, vidrio y madera encantada                 |
-| Estantería encantada | Madera encantada, libros y gema mágica                                     |
-| Cofre encantado      | 6 bloques de madera encantada, 2 gemas mágicas y 1 cofre normal            |
-| Puerta encantada     | 6 bloques de madera encantada, 2 gemas mágicas y 1 palo                    |
+| Elemento | Materiales |
+|---|---|
+| Varita mágica | Gemas mágicas, palos y madera encantada |
+| Escoba mágica | Madera encantada, gemas, palos y materiales de escoba |
+| Llave encantada | 3 gemas mágicas, 4 lingotes de oro, 1 palo y 2 bloques de madera encantada |
+| Libro de hechizos | Libros, gemas mágicas y madera encantada |
+| Farol encantado | Gemas mágicas, hierro, antorcha, vidrio y madera encantada |
+| Cofre encantado | 6 bloques de madera encantada, 2 gemas mágicas y 1 cofre normal |
+| Puerta encantada | 6 bloques de madera encantada, 2 gemas mágicas y 1 palo |
 
 El mineral mágico aparecerá en el mundo y, al minarlo, permitirá obtener de 1 a 3 gemas mágicas.
 
