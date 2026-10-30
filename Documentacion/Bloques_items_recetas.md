@@ -64,3 +64,10 @@ Las texturas mantienen una misma estética para que todos los elementos combinen
 - **Colores luminosos:** detalles especiales de los objetos mágicos.
 
 Todas las texturas tendrán un estilo pixelado, respetando la apariencia de Minecraft.
+
+
+## Mobs: El hada y el cíclope
+
+Para nuestro mod creamos dos mobs: el hada y el cíclope.
+
+El hada es amigable, cada vez que toca al jugador le da un efecto de poción y lo sigue a todos lados. En cambio, el cíclope es más independiente, anda por su cuenta y tiene distintas reacciones, como enojarse o atacar.
